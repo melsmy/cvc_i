@@ -2,39 +2,39 @@
     "questions": [
       {
         "Id": "1",
-        "soundfile":["c_a_t.mp3","c_a_p.mp3","b_a_g.mp3","v_a_n.mp3","h_a_m.mp3"],
-        "answer1": ["2","0","19"],
-        "answer2": ["2","0","15"],
-        "answer3": ["1","0","6"],
-        "answer4": ["21","0","13"],
-        "answer5": ["7","0","12"]
+        "soundfile":["b_i_g.mp3","d_i_g.mp3","j_i_g.mp3","p_i_t.mp3","t_i_p.mp3"],
+        "answer1": ["1","8","6"],
+        "answer2": ["3","8","6"],
+        "answer3": ["9","8","6"],
+        "answer4": ["15","8","19"],
+        "answer5": ["19","8","15"]
       } ,
       {
         "Id": "2",
-        "soundfile":["b_a_n.mp3","c_a_b.mp3","g_a_p.mp3","r_a_n.mp3","s_a_d.mp3"],
-        "answer1": ["1","0","13"],
-        "answer2": ["2","0","1"],
-        "answer3": ["6","0","15"],
-        "answer4": ["17","0","13"],
-        "answer5": ["18","0","3"]
+        "soundfile":["b_i_n.mp3","f_i_n.mp3","k_i_g.mp3","s_i_g.mp3","w_i_g.mp3"],
+        "answer1": ["1","8","13"],
+        "answer2": ["5","8","13"],
+        "answer3": ["10","8","6"],
+        "answer4": ["18","8","6"],
+        "answer5": ["22","8","6"]
       } ,
       {
         "Id": "3",
-        "soundfile":["b_a_t.mp3","f_a_n.mp3","h_a_t.mp3","r_a_t.mp3","w_a_d.mp3"],
-        "answer1": ["1","0","19"],
-        "answer2": ["5","0","13"],
-        "answer3": ["7","0","19"],
-        "answer4": ["17","0","19"],
-        "answer5": ["22","0","3"]
+        "soundfile":["b_i_p.mp3","f_i_t.mp3","l_i_g.mp3","s_i_n.mp3","w_i_n.mp3"],
+        "answer1": ["1","8","15"],
+        "answer2": ["5","8","19"],
+        "answer3": ["11","8","6"],
+        "answer4": ["18","8","13"],
+        "answer5": ["22","8","13"]
       } ,
       {
         "Id": "4",
-        "soundfile":["d_a_m.mp3","d_a_t.mp3","f_a_t.mp3","h_a_d.mp3","z_a_t.mp3"],
-        "answer1": ["3","0","12"],
-        "answer2": ["3","0","19"],
-        "answer3": ["5","0","19"],
-        "answer4": ["7","0","3"],
-        "answer5": ["25","0","19"]
+        "soundfile":["b_i_t.mp3","h_i_t.mp3","p_i_n.mp3","t_i_n.mp3","z_i_p.mp3"],
+        "answer1": ["1","8","19"],
+        "answer2": ["7","8","19"],
+        "answer3": ["15","8","13"],
+        "answer4": ["19","8","13"],
+        "answer5": ["25","8","15"]
       } 
     ]
   }
